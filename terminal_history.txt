@@ -1,0 +1,770 @@
+   50  cd desktop
+   51  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/hello_variable_world.py
+   52  /usr/bin/python3 "/Users/karim/Downloads/01_Hello_Variable_World 3/Unsolved/hello_variable_world.py"
+   53  /usr/bin/python3 "/Users/karim/Downloads/01_Hello_Variable_World 3/Unsolved/hello_variable_world.py"
+   54  /usr/bin/python3 "/Users/karim/Downloads/01_Hello_Variable_World 3/Unsolved/hello_variable_world.py"
+   55  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba3.py
+   56  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba3.py
+   57  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba3.py
+   58  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba3.py
+   59  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba3.py
+   60  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba3.py
+   61  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba4.py
+   62  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba4.py
+   63  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba4.py
+   64  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba4.py
+   65  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba4.py
+   66  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba5.py
+   67  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba5.py
+   68  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba5.py
+   69  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba5.py
+   70  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba5.py
+   71  /usr/bin/python3 /Users/karim/Downloads/02_Listing_Assets/Unsolved/listing_assets.py
+   72  /usr/bin/python3 /Users/karim/Downloads/02_Listing_Assets/Unsolved/listing_assets.py
+   73  /usr/bin/python3 /Users/karim/Downloads/02_Listing_Assets/Unsolved/listing_assets.py
+   74  /usr/bin/python3 /Users/karim/Downloads/02_Listing_Assets/Unsolved/listing_assets.py
+   75  /usr/bin/python3 /Users/karim/Downloads/02_Listing_Assets/Unsolved/listing_assets.py
+   76  /usr/bin/python3 /Users/karim/Downloads/02_Listing_Assets/Unsolved/listing_assets.py
+   77  /usr/bin/python3 /Users/karim/Downloads/02_Listing_Assets/Unsolved/listing_assets.py
+   78  /usr/bin/python3 /Users/karim/Downloads/02_Listing_Assets/Unsolved/listing_assets.py
+   79  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba6.py
+   80  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba6.py
+   81  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba6.py
+   82  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba6.py
+   83  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba6.py
+   84  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba6.py
+   85  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba7.py
+   86  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba7.py
+   87  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba7.py
+   88  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba7.py
+   89  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba7.py
+   90  /usr/bin/python3 /Users/karim/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+   91  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/listing_assets.py
+   92  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/listing_assets.py
+   93  /usr/bin/python3 /Users/karim/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+   94  /usr/bin/python3 /Users/karim/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+   95  conda activate dev
+   96  cd desktop
+   97  ls
+   98  cd Fintech_workspace
+   99  ls
+  100  cd python_project 
+  101  ls
+  102  hello_python.py
+  103  conda activate dev
+  104  python --version
+  105  code .
+  106  code .
+  107  code .
+  108  code .
+  109  conda deactivate
+  110  cd ..
+  111  cd ..
+  112  cd ..
+  113  dev activate
+  114  conda activate dev
+  115  pythone mba1.py
+  116  cd
+  117  cd desktop
+  118  ls
+  119  fintech_workspace
+  120  cd Fintech_workspace
+  121  ls
+  122  cd python_project
+  123  mba1.py
+  124  code .
+  125  pyton mba1.py
+  126  python mba1.py
+  127  pwd
+  128  pyhton mba1.py
+  129  python mba1.py
+  130  python mba1.py
+  131  python hello_variable_world.py
+  132  python hello_variable_world.py
+  133  python hello_variable_world.py
+  134  python hello_variable_world.py
+  135  python hello_variable_world.py
+  136  python hello_variable_world.py
+  137  python hello_variable_world.py
+  138  cd ~
+  139  cd desktop
+  140  ls
+  141  cd fintech_workspace
+  142  code ..
+  143  conda deactivate dev
+  144  -ssh-keygen
+  145  .ssh
+  146  ~/.ssh
+  147  cd ~/.ssh
+  148  cd ~
+  149  git --version
+  150  git clone git@uwa.bootcampcontent.com:UWA-Bootcamp/UW-VIRT-FIN-PT-10-2022-U-B.git
+  151  clear
+  152  ssh-keygen
+  153  ssh-keygen
+  154  cat /Users/karim/.ssh/id_rsa.pub
+  155  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/the_401k_shuffle.py
+  156  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  157  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  158  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  159  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  160  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  161  /usr/bin/python3 "/Users/karim/Downloads/01_Hello_Variable_World 5/Unsolved/hello_variable_world.py"
+  162  /usr/bin/python3 "/Users/karim/Downloads/01_Hello_Variable_World 5/Unsolved/hello_variable_world.py"
+  163  /usr/bin/python3 "/Users/karim/Downloads/01_Hello_Variable_World 5/Unsolved/hello_variable_world.py"
+  164  /usr/bin/python3 "/Users/karim/Downloads/01_Hello_Variable_World 5/Unsolved/hello_variable_world.py"
+  165  /usr/bin/python3 "/Users/karim/Downloads/01_Hello_Variable_World 5/Unsolved/hello_variable_world.py"
+  166  /usr/bin/python3 "/Users/karim/Downloads/01_Hello_Variable_World 5/Unsolved/hello_variable_world.py"
+  167  /usr/bin/python3 "/Users/karim/Downloads/01_Hello_Variable_World 5/Unsolved/hello_variable_world.py"
+  168  /usr/bin/python3 "/Users/karim/Downloads/01_Hello_Variable_World 5/Unsolved/hello_variable_world.py"
+  169  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  170  conda activate dev
+  171  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  172  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  173  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  174  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  175  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  176  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  177  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  178  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  179  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  180  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  181  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  182  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  183  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  184  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  185  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  186  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  187  /usr/bin/python3 "/Users/karim/Downloads/02_Listing_Assets 2/Unsolved/listing_assets.py"
+  188  /usr/bin/python3 "/Users/karim/Downloads/02_Listing_Assets 2/Unsolved/listing_assets.py"
+  189  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  190  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  191  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  192  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  193  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  194  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  195  /usr/bin/python3 "/Users/karim/Downloads/03_The_401k_Shuffle 3/Unsolved/the_401k_shuffle.py"
+  196  /usr/bin/python3 "/Users/karim/Downloads/03_The_401k_Shuffle 3/Unsolved/the_401k_shuffle.py"
+  197  /usr/bin/python3 "/Users/karim/Downloads/03_The_401k_Shuffle 3/Unsolved/the_401k_shuffle.py"
+  198  /usr/bin/python3 "/Users/karim/Downloads/03_The_401k_Shuffle 3/Unsolved/the_401k_shuffle.py"
+  199  /usr/bin/python3 "/Users/karim/Downloads/03_The_401k_Shuffle 2/Unsolved/the_401k_shuffle.py"
+  200  /usr/bin/python3 "/Users/karim/Downloads/03_The_401k_Shuffle 2/Unsolved/the_401k_shuffle.py"
+  201  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  202  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  203  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  204  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  205  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  206  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  207  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  208  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  209  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  210  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  211  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  212  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  213  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  214  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  215  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  216  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  217  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/conditional_statement.py
+  218  /usr/bin/python3 /Users/karim/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  219  /usr/bin/python3 /Users/karim/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  220  /usr/bin/python3 /Users/karim/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  221  /usr/bin/python3 /Users/karim/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  222  /usr/bin/python3 /Users/karim/Downloads/01_A_Definitive_Buy/Solved/a_definitive_buy.py
+  223  /usr/bin/python3 /Users/karim/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  224  /usr/bin/python3 /Users/karim/Downloads/02_Returned_Goods/Solved/returned_goods.py
+  225  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  226  /usr/bin/python3 "/Users/karim/Downloads/01_Conditional_Statement 2/Unsolved/conditional_statement.py"
+  227  /usr/bin/python3 "/Users/karim/Downloads/01_Conditional_Statement 2/Unsolved/conditional_statement.py"
+  228  /usr/bin/python3 "/Users/karim/Downloads/01_Conditional_Statement 2/Unsolved/conditional_statement.py"
+  229  /usr/bin/python3 "/Users/karim/Downloads/02_Nested_Conditionals 2/Unsolved/nested_conditionals.py"
+  230  /usr/bin/python3 "/Users/karim/Downloads/02_Nested_Conditionals 2/Unsolved/nested_conditionals.py"
+  231  /usr/bin/python3 "/Users/karim/Downloads/02_Nested_Conditionals 2/Solved/nested_conditionals.py"
+  232  /usr/bin/python3 "/Users/karim/Downloads/03_Split_Second_Homebuying 2/Unsolved/split_second_homebuying.py"
+  233  /usr/bin/python3 "/Users/karim/Downloads/03_Split_Second_Homebuying 2/Unsolved/split_second_homebuying.py"
+  234  /usr/bin/python3 "/Users/karim/Downloads/03_Split_Second_Homebuying 2/Unsolved/split_second_homebuying.py"
+  235  /usr/bin/python3 "/Users/karim/Downloads/03_Split_Second_Homebuying 2/Unsolved/split_second_homebuying.py"
+  236  /usr/bin/python3 "/Users/karim/Downloads/03_Split_Second_Homebuying 2/Unsolved/split_second_homebuying.py"
+  237  /usr/bin/python3 "/Users/karim/Downloads/03_Split_Second_Homebuying 2/Unsolved/split_second_homebuying.py"
+  238  /usr/bin/python3 "/Users/karim/Downloads/03_Split_Second_Homebuying 2/Unsolved/split_second_homebuying.py"
+  239  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  240  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  241  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  242  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  243  /usr/bin/python3 "/Users/karim/Downloads/01_A_Definitive_Buy 2/Unsolved/a_definitive_buy.py"
+  244  /usr/bin/python3 "/Users/karim/Downloads/01_A_Definitive_Buy 2/Unsolved/a_definitive_buy.py"
+  245  /usr/bin/python3 "/Users/karim/Downloads/01_A_Definitive_Buy 2/Unsolved/a_definitive_buy.py"
+  246  /usr/bin/python3 "/Users/karim/Downloads/01_A_Definitive_Buy 2/Unsolved/a_definitive_buy.py"
+  247  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  248  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  249  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/Conditional_Logic_in_Python.py
+  250  /usr/bin/python3 "/Users/karim/Downloads/02_Returned_Goods 2/Solved/returned_goods.py"
+  251  /usr/bin/python3 /Users/karim/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  252  /usr/bin/python3 /Users/karim/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  253  /usr/bin/python3 /Users/karim/Downloads/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py
+  254  /usr/bin/python3 /Users/karim/Downloads/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py
+  255  conda activate dev
+  256  /usr/bin/python3 "/Users/karim/Downloads/Class_2_Activities 2/01_Stu_Variables/Unsolved/variables.py"
+  257  /usr/bin/python3 "/Users/karim/Downloads/Class_2_Activities 2/01_Stu_Variables/Unsolved/variables.py"
+  258  /usr/bin/python3 "/Users/karim/Downloads/Class_2_Activities 2/01_Stu_Variables/Unsolved/variables.py"
+  259  /usr/bin/python3 "/Users/karim/Downloads/Class_2_Activities 2/01_Stu_Variables/Unsolved/variables.py"
+  260  /usr/bin/python3 "/Users/karim/Downloads/Class_2_Activities 2/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py"
+  261  /usr/bin/python3 "/Users/karim/Downloads/Class_2_Activities 2/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py"
+  262  /usr/bin/python3 "/Users/karim/Downloads/Class_2_Activities 2/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py"
+  263  /usr/bin/python3 "/Users/karim/Downloads/Class_2_Activities 2/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py"
+  264  /usr/bin/python3 "/Users/karim/Downloads/Class_2_Activities 2/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py"
+  265  /usr/bin/python3 "/Users/karim/Downloads/Class_2_Activities 2/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py"
+  266  /usr/bin/python3 "/Users/karim/Downloads/Class_2_Activities 2/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py"
+  267  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  268  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  269  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  270  /usr/bin/python3 "/Users/karim/Downloads/Class_2_Activities 2/03_Stu_Conditional_Statements/Solved/conditional_statements.py"
+  271  /usr/bin/python3 "/Users/karim/Downloads/Class_2_Activities 2/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py"
+  272  /usr/bin/python3 "/Users/karim/Downloads/Class_2_Activities 2/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py"
+  273  /usr/bin/python3 "/Users/karim/Downloads/Class_2_Activities 2/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py"
+  274  /usr/bin/python3 "/Users/karim/Downloads/Class_2_Activities 2/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py"
+  275  /usr/bin/python3 "/Users/karim/Downloads/Class_2_Activities 2/09_Stu_Loops/Unsolved/loops.py"
+  276  /usr/bin/python3 "/Users/karim/Downloads/Class_2_Activities 2/09_Stu_Loops/Unsolved/loops.py"
+  277  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  278  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  279  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  280  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  281  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  282  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  283  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  284  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  285  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  286  /usr/bin/python3 /Users/karim/Downloads/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  287  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  288  /usr/bin/python3 /Users/karim/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  289  /usr/bin/python3 /Users/karim/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  290  /usr/bin/python3 /Users/karim/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  291  /usr/bin/python3 "/Users/karim/Downloads/03_Split_Second_Homebuying_Part_2 2/Solved/split_second_part_2.py"
+  292  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  293  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  294  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  295  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  296  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  297  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  298  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  299  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  300  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  301  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  302  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  303  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  304  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  305  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  306  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  307  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  308  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  309  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  310  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  311  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  312  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  313  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  314  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  315  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  316  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  317  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/pathways_to_success.py
+  318  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  319  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  320  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  321  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/loan_analyzer.py
+  322  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/loan_analyzer.py
+  323  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/loan_analyzer.py
+  324  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  325  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  326  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/loan_analyzer.py
+  327  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  328  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  329  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  330  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  331  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  332  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  333  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  334  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  335  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  336  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  337  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  338  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  339  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  340  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  341  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  342  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  343  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  344  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  345  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  346  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  347  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  348  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  349  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  350  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  351  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/prectice2.py
+  352  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/prectice2.py
+  353  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/prectice2.py
+  354  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/prectice2.py
+  355  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/prectice2.py
+  356  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/prectice2.py
+  357  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/prectice2.py
+  358  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/prectice2.py
+  359  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  360  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  361  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  362  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  363  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  364  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  365  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  366  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  367  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  368  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  369  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  370  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  371  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  372  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  373  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  374  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  375  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  376  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  377  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  378  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  379  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  380  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  381  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  382  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  383  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  384  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  385  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  386  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  387  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  388  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  389  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  390  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  391  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  392  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  393  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  394  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/mba4.py
+  395  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  396  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  397  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  398  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  399  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  400  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  401  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  402  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  403  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  404  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  405  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  406  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  407  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  408  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  409  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  410  cd /Users/karim/Desktop/Fintech_workspace/Python_Project
+  411  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py
+  412  cd /Users/karim/Desktop/Fintech_workspace/Python_Project
+  413  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  414  cd /Users/karim/Desktop/Fintech_workspace/Python_Project
+  415  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  416  cd /Users/karim/Desktop/Fintech_workspace/Python_Project
+  417  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  418  cd /Users/karim/Desktop/Fintech_workspace/Python_Project
+  419  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  420  cd /Users/karim/Desktop/Fintech_workspace/Python_Project
+  421  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/practice3.py
+  422  cd /Users/karim/Desktop/Fintech_workspace/Python_Project
+  423  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/loan_analyzer.py
+  424  cd "/Users/karim/Downloads/Starter_Code 2"
+  425  /usr/bin/python3 "/Users/karim/Downloads/Starter_Code 2/loan_analyzer.py"
+  426  cd "/Users/karim/Downloads/Starter_Code 2"
+  427  /usr/bin/python3 "/Users/karim/Downloads/Starter_Code 2/loan_analyzer.py"
+  428  cd /Users/karim/Desktop/Fintech_workspace/Python_Project
+  429  /usr/bin/python3 /Users/karim/Desktop/Fintech_workspace/Python_Project/prectice2.py
+  430  cd "/Users/karim/Downloads/Starter_Code 2"
+  431  /usr/bin/python3 "/Users/karim/Downloads/Starter_Code 2/loan_analyzer.py"
+  432  cd "/Users/karim/Desktop/Fintech_workspace/Python_Project/Starter_Code 2"
+  433  /usr/bin/python3 "/Users/karim/Desktop/Fintech_workspace/Python_Project/Starter_Code 2/loan_analyzer.py"
+  434  conda activate dev
+  435  cd "/Users/karim/Desktop/Fintech_workspace/Python_Project/Coding the USD to BTC User Story"
+  436  /usr/bin/python3 "/Users/karim/Desktop/Fintech_workspace/Python_Project/Coding the USD to BTC User Story/convert_USD_to_BTC.py"
+  437  cd "/Users/karim/Desktop/Fintech_workspace/Python_Project/Coding the USD to BTC User Story"
+  438  /usr/bin/python3 "/Users/karim/Desktop/Fintech_workspace/Python_Project/Coding the USD to BTC User Story/convert_USD_to_BTC.py"
+  439   /usr/bin/env /usr/bin/python3 /Users/karim/.vscode/extensions/ms-python.python-2022.16.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52988 -- /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py 
+  440   cd /Users/karim/Desktop/Fintech_workspace/Python_Project ; /usr/bin/env /usr/bin/python3 /Users/karim/.vscode/extensions/ms-python.python-2022.16.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52996 -- /Users/karim/Desktop/Fintech_workspace/Python_Project/practice.py 
+  441  conda dev activate
+  442  conda activate dev
+  443  cd "/Users/karim/Desktop/2.1.6 activity unsolved"
+  444  /usr/bin/python3 "/Users/karim/Desktop/2.1.6 activity unsolved/app.py"
+  445  cd "/Users/karim/Desktop/2.1.6 activity unsolved"
+  446  /usr/bin/python3 "/Users/karim/Desktop/2.1.6 activity unsolved/app.py"
+  447  cd "/Users/karim/Desktop/practice module 2"
+  448  /usr/bin/python3 "/Users/karim/Desktop/practice module 2/Convert the _User_Story_into_Code.py"
+  449  conda activate dev
+  450  pip -V
+  451  pip freeze
+  452  pip install fire 
+  453  pip install questionary
+  454  cd "/Users/karim/Desktop/2.1.8 activity unsolved "
+  455  /usr/bin/python3 "/Users/karim/Desktop/2.1.8 activity unsolved /app.py"
+  456  cd "/Users/karim/Desktop/2.1.8 activity unsolved "
+  457  /usr/bin/python3 "/Users/karim/Desktop/2.1.8 activity unsolved /app.py"
+  458  cd "/Users/karim/Desktop/2.1.8 activity unsolved "
+  459  /usr/bin/python3 "/Users/karim/Desktop/2.1.8 activity unsolved /app.py"
+  460  cd "/Users/karim/Desktop/2.1.8 activity unsolved "
+  461  /usr/bin/python3 "/Users/karim/Desktop/2.1.8 activity unsolved /app.py"
+  462  cd "/Users/karim/Desktop/2.1.8 activity unsolved "
+  463  /usr/bin/python3 "/Users/karim/Desktop/2.1.8 activity unsolved /app.py"
+  464  cd "/Users/karim/Desktop/2.1.8 activity unsolved "
+  465  /usr/bin/python3 "/Users/karim/Desktop/2.1.8 activity unsolved /app.py"
+  466  cd "/Users/karim/Desktop/2.1.8 activity unsolved "
+  467  /usr/bin/python3 "/Users/karim/Desktop/2.1.8 activity unsolved /app.py"
+  468  cd "/Users/karim/Desktop/2.1.8 activity unsolved "
+  469  /usr/bin/python3 "/Users/karim/Desktop/2.1.8 activity unsolved /app.py"
+  470  cd /Users/karim/Desktop
+  471  /usr/bin/python3 /Users/karim/Desktop/practice.py
+  472  cd /Users/karim/Downloads/02_Pathways_to_Success_Part_1/Unsolved
+  473  /usr/bin/python3 /Users/karim/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  474  cd /Users/karim/Desktop/practice
+  475  /usr/bin/python3 /Users/karim/Desktop/practice/practice.py
+  476  cd /Users/karim/Desktop/practice
+  477  /usr/bin/python3 /Users/karim/Desktop/practice/practice.py
+  478  cd /Users/karim/Desktop/practice
+  479  /usr/bin/python3 /Users/karim/Desktop/practice/practice.py
+  480  cd /Users/karim/Downloads/04_Automating_Equity_Rounds/Unsolved
+  481  /usr/bin/python3 /Users/karim/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  482  cd /Users/karim/Downloads/04_Automating_Equity_Rounds/Unsolved
+  483  /usr/bin/python3 /Users/karim/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  484  cd /Users/karim/Downloads/04_Automating_Equity_Rounds/Unsolved
+  485  /usr/bin/python3 /Users/karim/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  486  cd /Users/karim/Downloads/04_Automating_Equity_Rounds/Unsolved
+  487  /usr/bin/python3 /Users/karim/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  488  cd /Users/karim/Downloads/04_Automating_Equity_Rounds/Unsolved
+  489  /usr/bin/python3 /Users/karim/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  490  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/03_Ins_Lists/Solved"
+  491  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/03_Ins_Lists/Solved/lists.py"
+  492  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/04_Stu_Manipulating_Lists/Solved"
+  493  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/04_Stu_Manipulating_Lists/Solved/manipulating_lists.py"
+  494  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/05_Ins_Dictionaries/Solved"
+  495  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/05_Ins_Dictionaries/Solved/dicts.py"
+  496  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/05_Ins_Dictionaries/Unsolved"
+  497  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/05_Ins_Dictionaries/Unsolved/dictsUnsolved.py"
+  498  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/05_Ins_Dictionaries/Unsolved"
+  499  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/05_Ins_Dictionaries/Unsolved/dictsUnsolved.py"
+  500  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/05_Ins_Dictionaries/Unsolved"
+  501  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/05_Ins_Dictionaries/Unsolved/dictsUnsolved.py"
+  502  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/05_Ins_Dictionaries/Unsolved"
+  503  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/05_Ins_Dictionaries/Unsolved/dictsUnsolved.py"
+  504  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/05_Ins_Dictionaries/Unsolved"
+  505  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/05_Ins_Dictionaries/Unsolved/dictsUnsolved.py"
+  506  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/05_Ins_Dictionaries/Unsolved"
+  507  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/05_Ins_Dictionaries/Unsolved/dictsUnsolved.py"
+  508  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/06_Stu_Working_with_Dictionaries/Unsolved"
+  509  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py"
+  510  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/06_Stu_Working_with_Dictionaries/Unsolved"
+  511  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py"
+  512  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/06_Stu_Working_with_Dictionaries/Unsolved"
+  513  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py"
+  514  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/06_Stu_Working_with_Dictionaries/Unsolved"
+  515  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py"
+  516  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/06_Stu_Working_with_Dictionaries/Unsolved"
+  517  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py"
+  518  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/06_Stu_Working_with_Dictionaries/Unsolved"
+  519  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py"
+  520  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/06_Stu_Working_with_Dictionaries/Unsolved"
+  521  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 2/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py"
+  522  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved"
+  523  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py"
+  524  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved"
+  525  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py"
+  526  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved"
+  527  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  528  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved"
+  529  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  530  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved"
+  531  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  532  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved"
+  533  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  534  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved"
+  535  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  536  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved"
+  537  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  538  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved"
+  539  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  540  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved"
+  541  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  542  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved"
+  543  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  544  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved"
+  545  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py"
+  546  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved"
+  547  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py"
+  548  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved"
+  549  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py"
+  550  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved"
+  551  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py"
+  552  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved"
+  553  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py"
+  554  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved"
+  555  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py"
+  556  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved"
+  557  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py"
+  558  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved"
+  559  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py"
+  560  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved"
+  561  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py"
+  562  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/03_Inst_ATM_Application_Logic/Unsolved"
+  563  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  564  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/03_Inst_ATM_Application_Logic/Unsolved"
+  565  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  566  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/03_Inst_ATM_Application_Logic/Unsolved"
+  567  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  568  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/03_Inst_ATM_Application_Logic/Unsolved"
+  569  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  570  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/03_Inst_ATM_Application_Logic/Unsolved"
+  571  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  572  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/03_Inst_ATM_Application_Logic/Unsolved"
+  573  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  574  cd "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/03_Inst_ATM_Application_Logic/Unsolved"
+  575  /usr/bin/python3 "/Users/karim/Desktop/Classes /activities due 10:28/Class_1_Activities 4/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  576  cd "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/qualifier/filters"
+  577  /usr/bin/python3 "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/qualifier/filters/credit_score.py"
+  578  cd "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/qualifier/filters"
+  579  /usr/bin/python3 "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/qualifier/filters/credit_score.py"
+  580  cd "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/qualifier/utils"
+  581  /usr/bin/python3 "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/qualifier/utils/fileio.py"
+  582  cd "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/qualifier/utils"
+  583  /usr/bin/python3 "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/qualifier/utils/calculators.py"
+  584  cd "/Users/karim/Downloads/Fintech Module 1/Starter_Code"
+  585  /usr/bin/python3 "/Users/karim/Downloads/Fintech Module 1/Starter_Code/loan_analyzer.py"
+  586  cd "/Users/karim/Downloads/Fintech Module 1/Starter_Code"
+  587  /usr/bin/python3 "/Users/karim/Downloads/Fintech Module 1/Starter_Code/loan_analyzer.py"
+  588  cd "/Users/karim/Downloads/Fintech Module 1/Starter_Code"
+  589  /usr/bin/python3 "/Users/karim/Downloads/Fintech Module 1/Starter_Code/loan_analyzer.py"
+  590  cd "/Users/karim/Downloads/Fintech Module 1/Starter_Code"
+  591  /usr/bin/python3 "/Users/karim/Downloads/Fintech Module 1/Starter_Code/loan_analyzer.py"
+  592  cd "/Users/karim/Downloads/Fintech Module 1/Starter_Code"
+  593  /usr/bin/python3 "/Users/karim/Downloads/Fintech Module 1/Starter_Code/loan_analyzer.py"
+  594  cd "/Users/karim/Downloads/Fintech Module 1/Starter_Code"
+  595  /usr/bin/python3 "/Users/karim/Downloads/Fintech Module 1/Starter_Code/loan_analyzer.py"
+  596  conda activate dev
+  597  conda activate base
+  598  cd /Users/karim/Downloads/02_Loan_Qualifier_Filtering_Data/Solved
+  599  /Users/karim/opt/anaconda3/bin/python /Users/karim/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  600  /Users/karim/opt/anaconda3/bin/python /Users/karim/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  601  /Users/karim/opt/anaconda3/bin/python /Users/karim/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  602  conda activate dev
+  603  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Starter_Code/loan_qualifier_app/app.py
+  604  /Users/karim/opt/anaconda3/bin/python /Users/karim/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  605  conda activate dev
+  606  /Users/karim/opt/anaconda3/bin/python /Users/karim/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  607  /Users/karim/opt/anaconda3/envs/dev/bin/python "/Users/karim/Desktop/practice module 2/Convert the _User_Story_into_Code.py"
+  608  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  609  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  610  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/actions/make_deposit.py
+  611  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py
+  612  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/actions/make_withdrawal.py
+  613  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py
+  614  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py
+  615  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/utils.py
+  616  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py
+  617  pip install questionary
+  618  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py
+  619  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/utils.py
+  620  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/utils.py
+  621  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/actions/make_withdrawal.py
+  622  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py
+  623  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py
+  624  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py
+  625  222222
+  626  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py
+  627  fire
+  628  install fire
+  629  python
+  630  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py
+  631  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py
+  632   /usr/bin/env /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/.vscode/extensions/ms-python.python-2022.16.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53158 -- /Users/karim/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py 
+  633  pip install fire
+  634  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py
+  635  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Desktop/practice/practice2.py
+  636  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Desktop/practice/practice2.py
+  637  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Desktop/practice/practice2.py
+  638  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Desktop/practice/practice2.py
+  639  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Desktop/practice/practice2.py
+  640  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Desktop/practice/practice2.py
+  641  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Desktop/practice/practice2.py
+  642  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Desktop/practice/practice2.py
+  643  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Desktop/practice/practice2.py
+  644  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Desktop/practice/practice2.py
+  645  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Desktop/practice/practice2.py
+  646  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Desktop/practice/practice2.py
+  647  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Desktop/practice/practice2.py
+  648  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Desktop/practice/practice2.py
+  649  /Users/karim/opt/anaconda3/envs/dev/bin/python /Users/karim/Desktop/practice/practice2.py
+  650  /Users/karim/opt/anaconda3/envs/dev/bin/python "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/app.py"
+  651  /Users/karim/opt/anaconda3/envs/dev/bin/python "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/app.py"
+  652  /Users/karim/opt/anaconda3/envs/dev/bin/python "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/app.py"
+  653  pwd
+  654  ls
+  655  desktop cd
+  656  cd desktop
+  657  cd
+  658  desktop cd 
+  659  cd desktop
+  660  ls
+  661  /Users/karim/opt/anaconda3/envs/dev/bin/python "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/app.py"
+  662  /Users/karim/opt/anaconda3/envs/dev/bin/python "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/app.py"
+  663  conda activate dev
+  664  conda list pandas
+  665  conda list jupyterlab
+  666  python -m ipykernel install --user --name dev--display--name "python (dev)"
+  667  python -m ipykernel install --user --name dev display-name "python (dev)"
+  668  python -m ipykernel install --user --name dev --display-name "python (dev)"
+  669  jupyter lab 
+  670  cd
+  671  Fintech_Module2_challenge cd
+  672  desktop cd
+  673  cd desktop
+  674  ls
+  675  cd Fintech_Module2_chllenge
+  676  cd Fintech_Module2_challenge
+  677  git clone https://github.com/karim985/Fintech_Module2_challenge.git
+  678  git clone <paste link here>
+  679  git clone <past link here>https://github.com/karim985/Fintech_Module2_challenge.git
+  680  git clone <paste link here>https://github.com/karim985/Fintech_Module2_challenge.git
+  681  git clone https://github.com/karim985/Fintech_Module2_challenge.git
+  682  git clone https://github.com/karim985/Fintech_Module2_challenge.git
+  683  cd desktop
+  684  ls
+  685  cd Fintech_Module2_challenge
+  686  git clone git@github.com:karim985/Fintech_Module2_challenge.git
+  687  xcode-select --install
+  688  cd desktop
+  689  ls
+  690  cd Fintech_Module2_challenge
+  691  git clone https://github.com/karim985/Fintech_Module2_challenge.git
+  692  git status
+  693  git init
+  694  git status
+  695  git status
+  696  git ad
+  697  git add
+  698  git add README.md
+  699  git status
+  700  git add Fintech_Module2_challenge
+  701  git rm --cached Fintech_Module2_challenge
+  702  f
+  703  cd desktop
+  704  cd Fintech_Module2_challenge
+  705  git clone https://github.com/karim985/Fintech_Module2_challenge.git
+  706  git status
+  707  git add README.md
+  708  git add README.md
+  709  ls
+  710  cd Fintech_Module2_challenge
+  711  git status
+  712  git add README.md
+  713  touch new_file.txt
+  714  ls
+  715  git status
+  716  git add new_file.txt
+  717  git status 
+  718  cd desktop
+  719  Fintech_Module2_challenge
+  720  cd Fintech_Module2_challenge
+  721  cd Fintch_Module2_challenge
+  722  cd Fintech_Module2_challenge
+  723  git status
+  724  git commit -m "edited readme and added new text file"
+  725  git status
+  726  git push
+  727  git push
+  728  git push
+  729  git push
+  730  git push
+  731  git push
+  732  cd desktop
+  733  cd Fintech_Module2challenge
+  734  cd Fintech_Module2_challenge
+  735  git commit -m "edited readme and added new text file"
+  736  git push
+  737  git status
+  738  cd desktop
+  739  cd Fintech_Module2_challenge
+  740  cd Fintech_Module2_challenge
+  741  git status
+  742  git push
+  743  cd desktop
+  744  cd Fintech_Module2_challenge
+  745  cd Fintech_Module2_challenge
+  746  git status
+  747  git push
+  748  /Users/karim/opt/anaconda3/envs/dev/bin/python "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/app.py"
+  749  /Users/karim/opt/anaconda3/envs/dev/bin/python "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/app.py"
+  750  cd desktop
+  751  ls
+  752  cd practice
+  753  ls
+  754  cd ~
+  755  cd desktop
+  756  ls
+  757  cd Github Repo practice
+  758  cd Github
+  759  cd Githubpra
+  760  ls
+  761  git clone https://github.com/karim985/Practice.git
+  762  git status
+  763  ls
+  764  cd practice
+  765  git status
+  766  git add .a
+  767  git add
+  768  git add .
+  769  git status
+  770  git push
+  771  git status
+  772  git push
+  773  git push https://github.com/karim985/Practice.git
+  774  git add README.me
+  775  git add README.md
+  776  git commit -m "file updated"
+  777  git push
+  778  /Users/karim/opt/anaconda3/envs/dev/bin/python "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/app.py"
+  779  /Users/karim/opt/anaconda3/envs/dev/bin/python "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/app.py"
+  780  /Users/karim/opt/anaconda3/envs/dev/bin/python "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/app.py"
+  781  /Users/karim/opt/anaconda3/envs/dev/bin/python "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/app.py"
+  782  /Users/karim/opt/anaconda3/envs/dev/bin/python "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/app.py"
+  783  /Users/karim/opt/anaconda3/envs/dev/bin/python "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/app.py"
+  784  /Users/karim/opt/anaconda3/envs/dev/bin/python "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/app.py"
+  785  /Users/karim/opt/anaconda3/envs/dev/bin/python "/Users/karim/Desktop/Module Challenge NOV 03/loan_qualifier_app/app.py"
+  786  cd desktop
+  787  ls
+  788  cd Module Challenge NOV 03
+  789  cd "Module Challenge NOV 03"
+  790  ls
+  791  git status
+  792  git add .
+  793  cd desktop
+  794  cd GithubME
+  795  ls
+  796  cd GithubME
+  797  cd githubme
+  798  cd desktop
+  799  ls
+  800  GithubME
+  801  cd GithubME
+  802  ls
+  803  cd challenge
+  804  git clone https://github.com/karim985/Fintechallenge2.git
+  805  git status
+  806  git add .
+  807  ls
+  808  Fintechallenge2
+  809  cd Fintechallenge2
+  810  git status
+  811  touch terminal_history.txt
+  812  git status
+  813  git push
+  814  git push https://github.com/karim985/Fintechallenge2.git
+  815  git status
+  816  rm terminal_history.txt
+  817  ls
+  818  git status
+  819  git add .
