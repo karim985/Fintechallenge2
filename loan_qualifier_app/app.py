@@ -115,15 +115,15 @@ def save_qualifying_loans(qualifying_loans):
     csvpath = Path("qualifying_loans")
     save_csv(csvpath, qualifying_loans)
 
-    def save_csv(csvpath):
-     with open(csvpath, "r") as csvfile:
-        data = [filter_credit_score, filter_debt_to_income, filter_loan_to_value, filter_max_loan_size]
-        csvreader = csvreader(csvfile, delimiter=",")
-        next(csvreader)
+def save_csv(csvpath):
+ with open(csvpath, "r") as csvfile:
+    data = [filter_credit_score, filter_debt_to_income, filter_loan_to_value, filter_max_loan_size]
+    csvreader = csvreader(csvfile, delimiter=",")
+    next(csvreader)
 
-        for row in csvreader:
-            data.append(row)
-            return data
+    for row in csvreader:
+        data.append(row)
+        return data
 
 
 def run():
